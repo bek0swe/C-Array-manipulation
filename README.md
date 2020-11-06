@@ -1,6 +1,6 @@
 Made by BERKAY CAN (EMU CMSE231 ASSIGNMENT 1 TASK 1)
 
-An array of numbers randomly formed and added some features to it.
+An array of numbers(consists of 50 elements) randomly formed and added some features to it.
 
 findAverage --> Finds the average of array.
 
