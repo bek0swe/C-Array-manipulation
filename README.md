@@ -1,2 +1,0 @@
-# C-Array-manipulation
-Write a C program that initializes an array of 50 elements with integers in the range 0 to 19, and determines their average, lists the numbers that are less than the average, and prints the frequency of each number (how many times it occurs in the array). Your program should define and use the following functions:  float findAverage(int [] array)  void listSmaller(int [] array, float average)  void showFrequency(int [] array)
