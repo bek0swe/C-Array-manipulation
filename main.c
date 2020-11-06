@@ -64,6 +64,6 @@ int main() {
 	listSmaller(randomarr,avgg) ;
 	showFrequency(randomarr) ;
 	
-    // Made by BERKAY CAN (EMU CMSE231 ASSIGNMENT 1 TASK 1)
+    
 
 }
